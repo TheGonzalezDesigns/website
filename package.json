@@ -1,0 +1,25 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "My personal website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thegonzalezdesigns/website.git"
+  },
+  "keywords": [
+    "thegonzalezdesigns",
+    "gonzalez",
+    "designs",
+    "website"
+  ],
+  "author": "Hugo Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thegonzalezdesigns/website/issues"
+  },
+  "homepage": "https://github.com/thegonzalezdesigns/website#readme"
+}
